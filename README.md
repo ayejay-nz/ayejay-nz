@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/ayejay-nz">
-  <img align="center" src="https://github-stats-extended-frontend-murex.vercel.app/api?username=ayejay-nz&count_private=true&hide=stars&hide_border=true&show_icons=true&theme=dark&custom_title=My%20GitHub%20Stats!" />
+  <img align="center" src="https://github-stats-extended-frontend-murex.vercel.app/api?username=ayejay-nz&count_private=true&hide=stars&hide_border=true&show_icons=true&theme=dark&rank_icon=github&custom_title=My%20GitHub%20Stats!" />
 </a>
 <a href="https://github.com/ayejay-nz">
   <img align="center" src="https://github-stats-extended-frontend-murex.vercel.app/api/top-langs/?username=ayejay-nz&hide_border=true&layout=compact&count_private=true&show_icons=true&theme=dark&custom_title=Languages%20I%20Use!" />
